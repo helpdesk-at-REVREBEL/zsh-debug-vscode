@@ -63,7 +63,7 @@
     "eslint": "^8.41.0",
     "jsdoc3-parser": "^3.0.0",
     "mocha": "6.2.3",
-    "standard-version": "^7.0.0",
+    "standard-version": "^9.0.0",
     "turbo": "^1.10.1",
     "typescript": "3.6.2"
   },
